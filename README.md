@@ -18,7 +18,7 @@ A Next.js frontend for online shopping.
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/elevate-ecommerce.git`
+1. Clone the repository: `git clone https://github.com/attaelahi/Elevate-E-commerce-A-Next.js-Frontend-for-Online-Shopping.git`
 2. Install dependencies: `npm install`
 3. Start the development server: `npm run dev`
 

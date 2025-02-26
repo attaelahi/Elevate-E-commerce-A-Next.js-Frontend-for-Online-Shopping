@@ -39,6 +39,9 @@ Feel free to use it
 ## Screenshots
 
 <img width="948" alt="1" src="https://github.com/user-attachments/assets/9edd0cf9-a9a4-4c30-85e9-7052f63c4d9c" />
+
 <img width="949" alt="2" src="https://github.com/user-attachments/assets/91645f6a-78bc-480a-89a2-701e5481bd71" />
+
 <img width="947" alt="3" src="https://github.com/user-attachments/assets/2940154e-183f-443d-ae46-8ac176faf44d" />
+
 <img width="944" alt="4" src="https://github.com/user-attachments/assets/38f0da66-07ce-4528-979c-76860eb0dbb6" />
